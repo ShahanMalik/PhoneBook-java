@@ -8,7 +8,7 @@ public class Moblie_Phone {
                 Scanner scan = new Scanner(System.in);
                 int user_input ;
                 char operator;
-                System.out.println("Welcome to nokia moblie");
+                System.out.println("Welcome to Apple moblie");
 
                 while (true){
                     System.out.println(" 1 - Time And Date \n"+
